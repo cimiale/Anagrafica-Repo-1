@@ -1,2 +1,2 @@
 # Anagrafica-Repo
- un progetto per ripassare
+ Un progetto per ripassare il C# e imparare ad usare GIT
